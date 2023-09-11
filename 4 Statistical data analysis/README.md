@@ -13,5 +13,4 @@
 **Numpy**\
 **Seaborn**\
 **Matplotlib**\
-**Spicy**
 
