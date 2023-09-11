@@ -19,4 +19,4 @@
 **Numpy**\
 **Seaborn**\
 **Matplotlib**\
-**Scipy**.
+**Scipy**
