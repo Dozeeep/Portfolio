@@ -12,5 +12,5 @@
 **Pandas**\
 **Numpy**\
 **Seaborn**\
-**Matplotlib**\
+**Matplotlib**
 
